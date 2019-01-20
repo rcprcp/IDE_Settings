@@ -1,0 +1,31 @@
+# Git
+*.rej
+*.orig
+
+# Maven
+target
+
+# VS Code
+.vscode
+**/.factorypath
+
+# Eclipse
+.classpath
+.project
+.settings
+
+#vim
+*.swp
+
+#Node.js
+node
+node_modules
+npm-debug.log
+
+#Oxygen
+__MACOSX
+
+#OSX
+.DS_Store
+
+.gitreview
