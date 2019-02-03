@@ -1,9 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
-    <option name="FONT_FACE" value="Fira Code Retina" />
+    <option name="FONT_FACE" value="Source Code Pro" />
     <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="18" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
